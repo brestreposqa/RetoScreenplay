@@ -1,0 +1,22 @@
+com/demoqa/test/utils/Excel.java
+ com.demoqa.test.utils.Excel
+com/demoqa/test/utils/FileUpload.java
+ com.demoqa.test.utils.FileUpload
+com/demoqa/test/interactions/OpenTheBrowser.java
+ com.demoqa.test.interactions.OpenTheBrowser
+com/demoqa/test/tasks/SelectForms.java
+ com.demoqa.test.tasks.SelectForms
+com/demoqa/test/interactions/SelectCalendar.java
+ com.demoqa.test.interactions.SelectCalendar
+com/demoqa/test/ui/PracticeFormsPage.java
+ com.demoqa.test.ui.PracticeFormsPage
+com/demoqa/test/questions/Validations.java
+ com.demoqa.test.questions.Validations
+com/demoqa/test/ui/HomePage.java
+ com.demoqa.test.ui.HomePage
+com/demoqa/test/tasks/ValidationForms.java
+ com.demoqa.test.tasks.ValidationForms
+com/demoqa/test/tasks/FillAllFieldsForms.java
+ com.demoqa.test.tasks.FillAllFieldsForms
+com/demoqa/test/models/DataInjection.java
+ com.demoqa.test.models.DataInjection
